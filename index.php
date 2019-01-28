@@ -15,6 +15,7 @@ and open the template in the editor.
         echo "Hola";
         echo "Voy a guardar el primer Commit";
         echo "Voy a hacer el segundo Commit";
+        echo "Voy a hacer el tercer Commit";
         ?>
     </body>
 </html>
